@@ -1,0 +1,1 @@
+# 1.-insan-kaynaklari-analitigi-excel-sablonlari
