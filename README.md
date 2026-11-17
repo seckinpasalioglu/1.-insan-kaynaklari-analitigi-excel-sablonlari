@@ -1,1 +1,1 @@
-# 1.-insan-kaynaklari-analitigi-excel-sablonlari
+Macit Seçkin Paşalıoğlu'nun "Veri Odaklı İK Analitiği: İş Gücü Modellemesi ve Ekonometrik Stratejiler" kitabına ait 45 adet uygulamalı operasyonel İK simülasyonunu ve Bölüm 12'ye ait ekonometrik vaka analizlerini (Parabolik Optimizasyon, Farkların Farkı analizi, Cox Proportional Hazards modelleri vb.) barındıran bu deponun kullanım rehberi ve tüm kod dizini, detaylı tablo yapısıyla birlikte ilgili web kaynağında yer almaktadır.
