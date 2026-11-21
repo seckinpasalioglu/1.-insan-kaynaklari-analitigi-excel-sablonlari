@@ -1,4 +1,18 @@
-# 📊 İnsan Kaynakları Analitiği ve Mühendisliği Dijital Kütüphanesi
+# Workforce Analytics & Econometric Modeling
+### Human Resources Engineering: From Data to Algorithms (Python Scripts & Datasets)
+
+[🇬🇧 English Overview](#-english-overview) | [🇹🇷 Türkçe Kullanım Rehberi](#-türkçe-kullanım-rehberi)
+
+## 🇬🇧 English Overview
+This cloud-based open-access repository hosts the advanced *econometric models, **AI simulations, **Excel templates, and **live Python scripts (.py)* featured in the book "From Data to Algorithms: Human Resources Engineering".
+* *How to Use:* Click on any .py file above or in the index table below to view the script, or click the green *<> Code* button at the top right and select *Download ZIP* to download all files.
+* *Note:* Full English translations of the case studies and code comments are continuously updated in this repository alongside the English edition of the book.
+
+---
+
+## 🇹🇷 Türkçe Kullanım Rehberi
+
+
 
 Bu bulut tabanlı açık erişim kütüphanesi, **"Veriden Algoritmalara İnsan Kaynakları Mühendisliği"** kitabımızda yer alan tüm ileri düzey ekonometrik modellerin, yapay zeka simülasyonlarının canlı şablonlarını ve büyük veri egzersiz setlerini barındırmaktadır.
 
