@@ -12,6 +12,11 @@ This cloud-based open-access repository hosts the advanced *econometric models, 
 
 ## 🇹🇷 Türkçe Kullanım Rehberi
 
+ÖNEMLİ KULLANIM KILAVUZU (Lütfen Uygulamadan Önce Okuyunuz)
+Python kodlarının içine müdahale etmenize gerek yoktur. Modellerin hatasız çalışması için yalnızca Excel veri dosyanızı aşağıdaki 3 kurala göre hazırlamanız yeterlidir:
+1. Sütun Başlıklarını Eşitleyin: Excel dosyanızın 1. satırındaki sütun adlarını, seçtiğiniz Python kodunun en üstünde # Gerekli Excel Sütunları: satırında belirtilen isimlerle birebir aynı yazın (boşluk yerine alt tire _ kullanın, Türkçe karakterleri ve parantez içi birimleri silin; örn: Egitim_Suresi).
+2. Dosya Adını Sabitleyin: Hazırladığınız Excel dosyasını sirket_verisi.xlsx adıyla kaydedin.
+3. Yükleyin ve Çalıştırın: GitHub'dan kopyaladığınız kodu Google Colab (://google.com) ekranına yapıştırın, sol menüdeki klasör simgesinden sirket_verisi.xlsx dosyanızı yükleyin ve Oynat (▶️) tuşuna basın.
 
 
 Bu bulut tabanlı açık erişim kütüphanesi, **"Veriden Algoritmalara İnsan Kaynakları Mühendisliği"** kitabımızda yer alan tüm ileri düzey ekonometrik modellerin, yapay zeka simülasyonlarının canlı şablonlarını ve büyük veri egzersiz setlerini barındırmaktadır.
