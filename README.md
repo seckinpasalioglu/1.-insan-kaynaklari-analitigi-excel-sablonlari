@@ -18,6 +18,7 @@ Python kodlarının içine müdahale etmenize gerek yoktur. Modellerin hatasız 
 2. Dosya Adını Sabitleyin: Hazırladığınız Excel dosyasını sirket_verisi.xlsx adıyla kaydedin.
 3. Yükleyin ve Çalıştırın: GitHub'dan kopyaladığınız kodu Google Colab (://google.com) ekranına yapıştırın, sol menüdeki klasör simgesinden sirket_verisi.xlsx dosyanızı yükleyin ve Oynat (▶️) tuşuna basın.
 
+Önemli Kullanım Notu: Python kodlarının içine müdahale etmenize gerek yoktur. Modellerin hatasız çalışması için; (1) Excel dosyanızın 1. satırındaki sütun adlarını ilgili kodun en üstünde # Gerekli Excel Sütunları: satırında yazan isimlerle birebir aynı yapın (Türkçe karakter, boşluk ve parantez kullanmadan; örn: Egitim_Suresi), (2) dosyanızı sirket_verisi.xlsx adıyla kaydedin, (3) ücretsiz Google Colab (://google.com) sol menüsündeki klasör simgesinden yükleyip Oynat (▶️) tuşuna basın.
 
 Bu bulut tabanlı açık erişim kütüphanesi, **"Veriden Algoritmalara İnsan Kaynakları Mühendisliği"** kitabımızda yer alan tüm ileri düzey ekonometrik modellerin, yapay zeka simülasyonlarının canlı şablonlarını ve büyük veri egzersiz setlerini barındırmaktadır.
 
